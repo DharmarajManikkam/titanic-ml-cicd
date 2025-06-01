@@ -6,4 +6,6 @@ uvicorn
 pytest
 pyyaml
 pytest>=7.0
-
+fastapi
+uvicorn[standard]
+numpy
